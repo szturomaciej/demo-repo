@@ -1,0 +1,12 @@
+﻿# OS/editor clutter
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+# Node
+node_modules/
+# Python
+__pycache__/
+*.pyc
+# VSCode
+.vscode/
